@@ -11,7 +11,6 @@
     "website": "https://legacy.curseforge.com/minecraft/mc-mods/suspicious-sand-maker"
   },
   "license": "All-Rights-Reserved",
-  "icon": "assets/suspiciouser/icon.png",
   "environment": "*",
   "entrypoints": {
     "main": [
